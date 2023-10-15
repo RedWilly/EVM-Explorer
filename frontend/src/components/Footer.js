@@ -20,18 +20,6 @@ const Footer = () => {
             </ul>
           </div>
           <div className="footer-col">
-            <h3>SBCH Community</h3>
-            <div className="social-links">
-              <a
-                href="https://t.me/smartbch_community"
-                target="_blank"
-                aria-label="Telegram"
-              >
-                <TbBrandTelegram size={20} />
-              </a>
-            </div>
-          </div>
-          <div className="footer-col">
             <h3>Contact TG</h3>
             <ul>
               <li>@Rink3y</li>
